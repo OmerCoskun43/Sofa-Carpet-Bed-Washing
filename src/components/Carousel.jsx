@@ -64,8 +64,8 @@ const Carousell = () => {
               color="white"
               className="mb-12 opacity-80"
             >
-              Birini sınıf makinelarımız ile halılarınızı ilk günkü temizliğinde
-              yıkıyor ve hızlı bir şekilde teslim ediyoruz.
+              Birinci sınıf makinelarımız ile halılarınızı ilk günkü
+              temizliğinde yıkıyor ve hızlı bir şekilde teslim ediyoruz.
             </Typography>
             <div className="flex gap-2">
               <Button size="lg" color="white">
