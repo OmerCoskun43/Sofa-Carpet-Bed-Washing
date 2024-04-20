@@ -6,9 +6,9 @@ const Footer = () => {
     <div className="bg-black flex justify-between h-[6rem]  items-center p-8">
       <div className="font-bold animate-pulse text-[#7FFF00]">
         <p>
-          Copyright <sup>© </sup> Cskn{" "}
-          <span className="hidden md:inline">Design</span> -{" "}
-          <span className="text-red-600"> {new Date().getFullYear()}</span>
+          Cskn <span className="hidden md:inline">Design</span> -{" "}
+          <span className="text-red-600"> {new Date().getFullYear()} </span>
+          Copyright <sup>© </sup>
         </p>
       </div>
       <div className="flex justify-center gap-2">
