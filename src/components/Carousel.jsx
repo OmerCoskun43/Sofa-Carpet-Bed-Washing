@@ -68,7 +68,7 @@ const Carousell = () => {
               temizliğinde yıkıyor ve hızlı bir şekilde teslim ediyoruz.
             </Typography>
             <div className="flex gap-2">
-              <Button size="lg" color="white">
+              <Button onClick={() => navigate("/hali")} size="lg" color="white">
                 Detay
               </Button>
               <Button
@@ -105,7 +105,11 @@ const Carousell = () => {
               sonra 7-8 saat içinde kurumaktadır.
             </Typography>
             <div className="flex gap-2">
-              <Button size="lg" color="white">
+              <Button
+                onClick={() => navigate("/yatak")}
+                size="lg"
+                color="white"
+              >
                 Detay
               </Button>
               <Button
