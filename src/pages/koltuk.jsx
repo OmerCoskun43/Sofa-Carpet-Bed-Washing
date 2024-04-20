@@ -24,12 +24,13 @@ const Koltuk = () => {
 
         <div className="md:w-[49%]">
           <p className="indent-8 font-bold">
-            Kütahya'da en iyi koltuk yıkama hizmetini sunmak için kurulmuştur.
-            Alanında uzman ekibimiz, sizin ve ailenizin sağlığı için koltuk ve
-            yataklarınızdaki mayt, akar ve bakterileri yüksek buharlı yıkama ile
-            doğal ürünler kullanarak derinlemesine temizlemektedir. Ev ve
-            işyerlerinde kullandığınız koltuklar zamanla kirlenebilir ve bakteri
-            ortamı oluşabilir. Bu nedenle, koltuk temizliği sadece koltukların
+            <span className="font-bold text-red-700 ">Kütahya </span>'da en iyi
+            koltuk yıkama hizmetini sunmak için kurulmuştur. Alanında uzman
+            ekibimiz, sizin ve ailenizin sağlığı için koltuk ve yataklarınızdaki
+            mayt, akar ve bakterileri yüksek buharlı yıkama ile doğal ürünler
+            kullanarak derinlemesine temizlemektedir. Ev ve işyerlerinde
+            kullandığınız koltuklar zamanla kirlenebilir ve bakteri ortamı
+            oluşabilir. Bu nedenle, koltuk temizliği sadece koltukların
             yüzeyindeki kirleri silerek değil, profesyonel makine ve özel
             kimyasallar kullanarak derinlemesine yapılması gerekir. Koltuk silme
             ise, kumaşın altındaki süngerlere kir taşıyan ve hijyenik olmayan
@@ -40,13 +41,16 @@ const Koltuk = () => {
             sağlar. Koltuk yıkama işlemleri, evler, kamu kurumları, ofisler ve
             diğer alanlarda yapılır. Koltuklar insanların dinlenmelerini
             sağladığı önemli eşyalardır ve oturarak temas ettikleri için her
-            zaman temiz olmaları hayati önem taşır. Kütahya koltuk yıkama
-            firması olarak, lekeler, toz ve diğer kalıntıları yok etmeye odaklı
-            hizmet veriyoruz. Koltuklarınızı en steril halde temizletmek ve daha
-            canlı hale getirmek için bizimle iletişime geçebilirsiniz. Koltuk
-            Yıkama Neden Önemlidir? Koltuk yıkama, daha sağlıklı bir ortam
-            oluşturmak için önemlidir çünkü koltuklar zamanla toz, lekeler ve
-            bakterilerle dolabilir.
+            zaman temiz olmaları hayati önem taşır.{" "}
+            <span className="font-bold text-red-700 ">
+              Kütahya Lüx Cleaning{" "}
+            </span>{" "}
+            koltuk yıkama firması olarak, lekeler, toz ve diğer kalıntıları yok
+            etmeye odaklı hizmet veriyoruz. Koltuklarınızı en steril halde
+            temizletmek ve daha canlı hale getirmek için bizimle iletişime
+            geçebilirsiniz. Koltuk Yıkama Neden Önemlidir? Koltuk yıkama, daha
+            sağlıklı bir ortam oluşturmak için önemlidir çünkü koltuklar zamanla
+            toz, lekeler ve bakterilerle dolabilir.
           </p>
         </div>
       </div>

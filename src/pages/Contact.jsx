@@ -7,7 +7,7 @@ import {
 
 const Contact = () => {
   return (
-    <div className="bg-gray-300 h-[calc(100vh-12rem)]  text-justify">
+    <div className="bg-gray-300 h-[calc(100vh-12.25rem)]  text-justify">
       <h1 className="font-bold p-4  text-xl md:text-3xl text-red-600">
         İletişim Bilgileri
       </h1>

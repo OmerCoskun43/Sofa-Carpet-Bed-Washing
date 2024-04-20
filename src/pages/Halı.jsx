@@ -33,8 +33,9 @@ const Halı = () => {
             yıkadığımız halıların alt kısmı ıslanmamaktadır; yani parkelerinize
             her hangi bir su teması olmamaktadır. Yıkanan halılarınız yüksek
             vakumlu makinelerimiz sayesinde 3-5 saat içerisinde kurumaktadır.
-            İkiyaka temizlik şirketi olarak; İstanbul geneline profesyonel ekip
-            ve ekipmanlarımız ile ücretsiz servis ağımız bulunmaktadır Karcher
+            <span className="font-bold text-red-700"> Lüx Cleaning </span>
+            temizlik şirketi olarak; İstanbul geneline profesyonel ekip ve
+            ekipmanlarımız ile ücretsiz servis ağımız bulunmaktadır Karcher
             marka Profesyonel makinelerle siz değerli müşterilerimize hizmet
             verkteyiz Her zaman önceliğimiz müşteri memnuniyetidir.
           </p>
